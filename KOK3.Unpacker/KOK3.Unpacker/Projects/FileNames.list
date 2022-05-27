@@ -178,40 +178,33 @@ mesh\nature\water42.dds
 mesh\nature\water43.dds
 mesh\nature\water44.dds
 speedtree\data\treemodels\coconutpalm_rt.spt
-speedtree\data\treemodels\coconutpalm_rt.spt instance count = 10
 speedtree\data\treemodels\coconutpalm_rt_diffuse.dds
 speedtree\data\treemodels\coconutpalm_rt_diffuse_billboards.dds
 speedtree\data\treemodels\coconutpalmbark.tga
 speedtree\data\treemodels\elephantearcluster_ld.spt
-speedtree\data\treemodels\elephantearcluster_ld.spt instance count = 10
 speedtree\data\treemodels\elephantearcluster_ld_diffuse.dds
 speedtree\data\treemodels\elephantearcluster_ld_diffuse_billboards.dds
 speedtree\data\treemodels\elephantearcluster_selfshadow.dds
 speedtree\data\treemodels\elephantearskin.tga
 speedtree\data\treemodels\elmstocky_rt_fall.spt
-speedtree\data\treemodels\elmstocky_rt_fall.spt instance count = 27
 speedtree\data\treemodels\elmstocky_rt_fall_diffuse.dds
 speedtree\data\treemodels\elmstocky_rt_fall_diffuse_billboards.dds
 speedtree\data\treemodels\elmstocky_selfshadow.dds
 speedtree\data\treemodels\elmstockybark.tga
 speedtree\data\treemodels\greypoplar_rt.spt
-speedtree\data\treemodels\greypoplar_rt.spt instance count = 48
 speedtree\data\treemodels\greypoplar_rt_diffuse.dds
 speedtree\data\treemodels\greypoplar_rt_diffuse_billboards.dds
 speedtree\data\treemodels\greypoplar_rt_fall.spt
-speedtree\data\treemodels\greypoplar_rt_fall.spt instance count = 35
 speedtree\data\treemodels\greypoplar_rt_fall_diffuse.dds
 speedtree\data\treemodels\greypoplar_rt_fall_diffuse_billboards.dds
 speedtree\data\treemodels\greypoplar_selfshadow.dds
 speedtree\data\treemodels\greypoplarbark.tga
 speedtree\data\treemodels\kousadogwood_rt_fall.spt
-speedtree\data\treemodels\kousadogwood_rt_fall.spt instance count = 2
 speedtree\data\treemodels\kousadogwood_rt_fall_diffuse.dds
 speedtree\data\treemodels\kousadogwood_rt_fall_diffuse_billboards.dds
 speedtree\data\treemodels\kousadogwood_selfshadow.dds
 speedtree\data\treemodels\kousadogwoodbark.tga
 speedtree\data\treemodels\pistachiotree_rt_fall.spt
-speedtree\data\treemodels\pistachiotree_rt_fall.spt instance count = 10
 speedtree\data\treemodels\pistachiotree_rt_fall_diffuse.dds
 speedtree\data\treemodels\pistachiotree_rt_fall_diffuse_billboards.dds
 speedtree\data\treemodels\pistachiotree_selfshadow.dds
